@@ -3,3 +3,5 @@ line2
 
 feature 1 added!
 feature 1 modified!
+
+feature 2 added!
